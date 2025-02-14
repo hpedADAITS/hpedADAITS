@@ -5,19 +5,15 @@ Welcome to my GitHub profile! I'm a passionate nerd who loves to learn, explore 
 ## 🚀 About Me
 
 - 🔭 Currently working on SPAs and Web Frameworks
-- 🌱 Learning more about C,Rust and Java
+- 🌱 Learning more about Computer architecture
 - 👯 Open to collaborating on interesting projects
-- 🤔 Interested in Web Development and FOSS at the moment
+- 🤔 Interested in Web Development at the moment
 
 ## 🌍 Technologies & Tools I want to work consistently with
 
 - **Languages**: C and Java
-- **Web Development**: [HTML, CSS, React, Angular, etc.]
+- **Web Development**: [HTML, CSS, React, etc.]
 - **Tools**: [VS Code, Git, Docker, etc.]
 
-
-## 🔗 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/)
 
 Feel free to check out my repositories and don't hesitate to reach out if you're interested in collaborating or chatting about anything tech-related. 😊
