@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate nerd who loves to learn, explore 
 - 👯 Open to collaborating on interesting projects
 - 🤔 Interested in Web Development and FOSS at the moment
 
-## 🌍 Technologies & Tools I work with
+## 🌍 Technologies & Tools I want to work consistently with
 
 - **Languages**: C and Java
 - **Web Development**: [HTML, CSS, React, Angular, etc.]
