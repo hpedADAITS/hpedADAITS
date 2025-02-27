@@ -11,6 +11,6 @@ Welcome to my GitHub profile! I'm a passionate nerd who loves to learn, explore 
 
 ## 🌍 Technologies & Tools I want to work consistently with
 
-- **Languages**: C and Java
+- **Languages**: C Java and Python
 - **Web Development**: [HTML, CSS, React, etc.]
 - **Tools**: [VS Code, Git, Docker, etc.]
